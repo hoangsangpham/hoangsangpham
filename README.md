@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer | UIUX Designer
 -------------
 
-I'm a Fresher - level UIUX Designer with two month of professional experience in the 
+I'm a Fresher - level UIUX Designer and Frontend Developer with two month of professional experience in the 
 field. My expertise lies in conceptualizing and designing engaging software products that
 are both aesthetically appealing and highly functional. With strong problem-solving 
 abilities and creative skills, I am able to deliver effective solutions that satisfy the needs of
