@@ -13,7 +13,7 @@ both the customer and the end-user
 * 🌍  I'm based in Vietnam
 * 🖥️  See my portfolio at [MyPortfolio](#https://junenghia.netlify.app)
 * ✉️  You can contact me at [hoangsangpham88@gmail.com](mailto:hoangsangpham88@gmail.com)
-* 🚀  I'm currently working on [GreyBoxAsia](https://greybox.asia)
+* 🚀  I'm currently working on [Kim-Sonaki](#https://greybox.asia)
 * 🧠  I'm learning ReactJS and UI Design
 
 ### Skills
